@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\bin\Debug\net472\NoPollution.dll
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\bin\Debug\net472\NoPollution.pdb
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.AssemblyInfo.cs
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.sourcelink.json
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.dll
+C:\Users\danie\source\repos\No-Pollution\PollutionRemover\obj\Debug\net472\NoPollution.pdb
